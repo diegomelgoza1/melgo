@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Top 10 paises en FIFA</h1>
+    <ol reversed>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/DEN">Dinamarca</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/por">Portugal</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/ned">Paises Bajos</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/ESP">España</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/ITA">Italia</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/ENG">Inglaterra</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/FRA">Francia</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/ARG">Argentina</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/BEL">Belgica</a></li>
+        <li><a href="https://www.fifa.com/es/fifa-world-ranking/BRA">Brasil</a></li>
+    </ol>
+    <h1>Top 5 Entrenadores</h1>
+    <ol>
+        <li><a href="https://es.wikipedia.org/wiki/Alex_Ferguson">Alex Ferguson</a></li>
+        <li><a href="https://es.wikipedia.org/wiki/Rinus_Michels">Rinus Michels</a></li>
+        <li><a href="https://es.wikipedia.org/wiki/Johan_Cruyff">Johan Cruyff</a></li>
+        <li><a href="https://es.wikipedia.org/wiki/Bill_Shankly">Bill Shankly</a></li>
+        <li><a href="https://es.wikipedia.org/wiki/Pep_Guardiola">Pep Pep_Guardiola</a></li>
+    </ol>
+    <h1>Los Mejores Mundiales</h1>
+    <ul>
+        <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1954switzerland">Suiza 1954</a></li>
+        <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1958sweden">Suecia 1958</a></li>
+        <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1970mexico">México 1970</a></li>
+        <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1982spain">España 1982</a></li>
+        <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1986mexico">México 1986</a></li>
+    </ul>
+</body>
+</html>
