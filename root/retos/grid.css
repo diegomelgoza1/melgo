@@ -1,0 +1,19 @@
+body{background-color: aquamarine;}
+.layout{
+    display: grid;
+    width: 70%;
+    background-color: black;
+    margin: auto;
+    padding: 30px;
+    border: 10px;
+    grid-template-columns: auto;
+}
+
+.caja{
+    background-color: aqua;
+    color: blueviolet;
+    margin: 10px;
+    border: solid bisque;
+    line-height: 100px;
+    text-align: center;
+}

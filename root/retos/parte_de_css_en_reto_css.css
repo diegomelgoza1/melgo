@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+.texto_azul{
+    color: blue;
+}
+#texto_resaltado{
+    font-size: 30px;
+    color:brown;
+}

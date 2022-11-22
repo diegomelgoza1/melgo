@@ -1,13 +1,12 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
-<body>
+<body>  <!--aqui empieza su contenido-->
     <h1>Top 10 paises en FIFA</h1>
-    <ol reversed>
+    <ol reversed> <!--top mejores paises segun la FIFA-->
         <li><a href="https://www.fifa.com/es/fifa-world-ranking/DEN">Dinamarca</a></li>
         <li><a href="https://www.fifa.com/es/fifa-world-ranking/por">Portugal</a></li>
         <li><a href="https://www.fifa.com/es/fifa-world-ranking/ned">Paises Bajos</a></li>
@@ -20,7 +19,7 @@
         <li><a href="https://www.fifa.com/es/fifa-world-ranking/BRA">Brasil</a></li>
     </ol>
     <h1>Top 5 Entrenadores</h1>
-    <ol>
+    <ol>    <!--top 5 mejores directores técnicos-->
         <li><a href="https://es.wikipedia.org/wiki/Alex_Ferguson">Alex Ferguson</a></li>
         <li><a href="https://es.wikipedia.org/wiki/Rinus_Michels">Rinus Michels</a></li>
         <li><a href="https://es.wikipedia.org/wiki/Johan_Cruyff">Johan Cruyff</a></li>
@@ -28,7 +27,7 @@
         <li><a href="https://es.wikipedia.org/wiki/Pep_Guardiola">Pep Pep_Guardiola</a></li>
     </ol>
     <h1>Los Mejores Mundiales</h1>
-    <ul>
+    <ul>    <!--top 5 mejores mundialesS-->
         <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1954switzerland">Suiza 1954</a></li>
         <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1958sweden">Suecia 1958</a></li>
         <li><a href="https://www.fifa.com/es/tournaments/mens/worldcup/1970mexico">México 1970</a></li>
